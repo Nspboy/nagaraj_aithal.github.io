@@ -189,10 +189,11 @@ h1 span {
   padding: 4rem 0;
 }
 .section-title {
-  font-size: 22px;
-  margin: 0 0 20px;
+  font-size: 28px;
+  margin: 0 0 32px;
   color: #d1c6ff;
   text-align: center;
+  font-weight: 700;
 }
 .services-list {
   display: grid;
@@ -238,23 +239,55 @@ h1 span {
 
 .works-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 18px;
-  margin-top: 18px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 32px;
 }
 .work-item {
   background: var(--card);
-  padding: 12px;
+  padding: 0;
   border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s;
+}
+
+.work-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 40px rgba(124, 58, 237, 0.12);
 }
 .work-item .thumb {
-  height: 140px;
+  height: 240px;
   background: linear-gradient(
     135deg,
     rgba(124, 58, 237, 0.2),
     rgba(124, 58, 237, 0.08)
   );
-  border-radius: 8px;
+  border-radius: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.work-item .thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.work-item h4,
+.work-item .category,
+.work-item .desc,
+.work-item .tech-tags,
+.work-item a {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.work-item h4 {
+  margin-top: 20px;
 }
 
 .resume-grid {
