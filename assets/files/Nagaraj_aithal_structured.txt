@@ -1,0 +1,232 @@
+================================================================================
+EXTRACTED RESUME CONTENT - NAGARAJ AITHAL
+================================================================================
+
+SECTION 1: PERSONAL INFORMATION
+================================================================================
+
+Full Name:
+Nagaraj Aithal
+
+Location:
+Sagara, Shivamogga
+
+================================================================================
+
+SECTION 2: CONTACT INFORMATION
+================================================================================
+
+Phone:
++91-8317393800
+
+Email:
+nagarajanagaraj.2003@gmail.com
+
+LinkedIn:
+linkedin.com/in/nagaraj-aithal
+
+GitHub:
+github.com/Nspboy
+
+================================================================================
+
+SECTION 3: PROFESSIONAL HEADLINE/TITLE
+================================================================================
+
+Full Stack Developer
+
+================================================================================
+
+SECTION 4: EDUCATION
+================================================================================
+
+Degree 1:
+Master of Computer Application (MCA)
+Institution: Mangalore Institute of Technology and Engineering
+Location: Moodibidri
+CGPA: 8.01
+Duration: December 2024 - June 2026
+
+Degree 2:
+Bachelor of Computer Application (BCA)
+Institution: St. Mary's Syrian College
+Location: Udupi
+CGPA: 8.81
+Duration: January 2021 - May 2024
+
+================================================================================
+
+SECTION 5: PROFESSIONAL SUMMARY/ABOUT
+================================================================================
+
+A dedicated Full Stack Developer with strong expertise in MERN stack and Python 
+Django framework. Experienced in developing user interfaces and building complete 
+web applications. Demonstrates excellent problem-solving abilities, teamwork 
+skills, and ability to adapt in collaborative environments.
+
+================================================================================
+
+SECTION 6: EXPERIENCE
+================================================================================
+
+Position 1:
+Job Title: Full Stack Developer Intern
+Company: Invays Technologies
+Duration: 3 months (Part-time)
+
+Key Responsibilities & Achievements:
+- Worked as a part-time intern for 3 months
+- Developed user interfaces and functionality using React, Express.js, and 
+  Tailwind CSS
+- Contributed to the development of client-based projects for web applications
+- Led a web-based project focused on Business Marketing for a portfolio website
+
+================================================================================
+
+SECTION 7: TECHNICAL SKILLS
+================================================================================
+
+Programming Languages:
+- Java
+- SQL
+- MERN Stack (MongoDB, Express, React, Node.js)
+
+Frontend Technologies:
+- React
+- HTML
+- JavaScript
+- Bootstrap CSS
+- Tailwind CSS
+
+Backend Technologies:
+- Express.js
+- Python Django Framework
+
+Database:
+- SQLite
+- SQL
+
+Developer Tools & IDEs:
+- VS Code
+
+Frameworks & Libraries:
+- Django
+- Express.js
+- React
+- Bootstrap
+
+================================================================================
+
+SECTION 8: PROJECTS
+================================================================================
+
+Project 1: EXPENSE TRACKER
+Technology Stack: Python (Django Framework), HTML, JavaScript, Bootstrap CSS, 
+SQLite
+
+Project Description:
+A comprehensive full-stack web application for managing personal and business 
+expenses.
+
+Key Features & Achievements:
+- Designed and developed a full-stack Expense Tracker web application using 
+  Python Django
+- Enabled users to record, manage, and categorize expenses in real-time
+- Integrated a user-friendly web interface with HTML, JavaScript, and Bootstrap 
+  for responsive design
+- Implemented interactive features including filtering by date, category, and 
+  amount
+- Built a robust relational database system using SQLite to securely store user 
+  profiles, transaction histories, and analytics data
+- Implemented CRUD functionality (Create, Read, Update, Delete) for expense 
+  records
+- Developed data visualization features with monthly spending charts using 
+  JavaScript-based libraries
+- Added user authentication and session management for personalized dashboards
+- Ensured secure login and logout processes via Django's built-in user model
+- Real-world application addressing the need for personal finance management 
+  tools for freelancers, students, and small business owners
+
+================================================================================
+
+SECTION 9: CERTIFICATIONS
+================================================================================
+
+Certification 1:
+Python Programming
+Issued by: Infosys Springboard
+
+Certification 2:
+SQL Case Study
+Issued by: Infosys Springboard
+
+Certification 3:
+Software Testing Training
+Issued by: Besant Technologies
+
+Certification 4:
+Foundation of Cloud IoT Edge ML
+Issued by: National Programme on Technology Enhanced Learning (NPTL)
+
+================================================================================
+
+SECTION 10: ACHIEVEMENTS & AWARDS
+================================================================================
+
+Sports Achievements:
+- Won prizes in Volleyball competitions at both school and college levels
+- Won prizes in Cricket competitions at both school and college levels
+
+Academic & Cultural Involvement:
+- Actively participated in various cultural activities during school
+- Actively participated in various social activities during school
+- Actively participated in various cultural activities during college
+- Actively participated in various social activities during college
+
+================================================================================
+
+SECTION 11: SOFT SKILLS
+================================================================================
+
+Problem-Solving:
+- Strong analytical and problem-solving abilities
+
+Decision Making:
+- Capable of making informed decisions
+
+Team Building & Teamwork:
+- Skilled at building and working with teams
+- Capable of adjusting with new people
+- Fully supportive and collaborative team player
+
+Communication:
+- Fluent and confident communicator
+- Can engage effectively with various stakeholders
+
+================================================================================
+
+SECTION 12: HOBBIES & INTERESTS
+================================================================================
+
+- Volleyball
+- Cricket
+- Video Editing
+- Photo Editing
+- Photography
+- Gaming
+
+================================================================================
+
+ADDITIONAL INFORMATION
+================================================================================
+
+Teamwork:
+Capable of adjusting with new people and fully supporting team objectives. 
+Excellent at collaboration and joining hands with team members on projects.
+
+Communication:
+Can talk fluently with other people. Strong interpersonal and communication skills.
+
+================================================================================
+END OF STRUCTURED RESUME CONTENT
+================================================================================

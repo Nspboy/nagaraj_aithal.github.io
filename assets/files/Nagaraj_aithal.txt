@@ -1,0 +1,54 @@
+Nagaraj Aithal   
+  Sagara Shivamogga   
++91 -8317393800 | nagarajanagaraj.2003@gmail.com  | linkedin.com/in/nagar aj Aithal | github.com/Nspboy  
+  
+  
+Education  
+   Mangalore Institute Of Technology And Engineering    MOODBIDRI  
+Master of Computer Application | CGPA : 8. 01 Dec 2024 – Jun 2026   
+   St. Mary’s Syrian College   UDUPI   
+Bachelor of  Computer Application | CGPA : 8.81   
+  
+Skill Summary   Jan 202 1 – May 2024   
+       Programming Languages         :   Java ,SQL  ,MERN stack    
+   Developer Tools                      :   VS Code  
+      Other skills                                     :   Problem -solving , Decision making , Team building      
+Internship  
+  Full Stack Developer Intern  
+  Invays Technologies  
+  • Worked part -time intern for 3 months  
+  • Developed user interfaces and functionality using React ,Express js and Tailwind CSS  
+  • Contributed to the development of client based projects for web application  
+  • Led a web -based project focused on  Business Marketing for portfolio website  
+ 
+Projects    
+ EXPENSE TRACKER  | Python(DJANGO FRAMEWORK)  
+• Designed and developed a full -stack Expense Tracker web application  using Python Django , enabling users to 
+record, manage, and categorize personal or business expenses in real -time.  
+• Integrated a user -friendly web interface  with HTML, JavaScript, and Bootstrap (CSS)  for responsive design and 
+interactive features such as filtering by date, category, and amount.  
+• Built a robust relational database system using SQLite to securely store user profiles, transaction histories, and 
+analytics data.  
+• Implemented best functionality  (Create, Read, Update, Delete) for expense records and developed data visualization 
+features  like monthly spending charts using JavaScript -based libraries.  
+• Added user authentication and session management  for personalized dashboards, ensuring secure login and logout 
+processes via Django’s built -in user model.  
+• Project reflects real -world relevance by addressing the growing need for personal finance management tools , 
+especially for freelancers, students, and small business owners seeking financial transparency and control.  
+  
+ Achievements
+  
+• Won prizes in V olleyball and Cricket competitions at both school and college levels  
+• Actively participated in various cultural and social activities during school and college  
+  
+Certifications 
+              
+Python Programming − Infosys -Springboard | SQL Case Study – Infosys -Springboard | Software Testing  
+Training – Besant Technologies | Foundation Of Cloud IoT Edge ML – National  Programme  on  Technology 
+Enhanced Learning(NPTL)     
+ Hobbies and Interest   
+       Volleyball ,Cricket, Video & Photo Editing , Video and photography , Gaming  
+  
+Additional Information  
+       Teamwork: Capable of adjusting with new people and fully support and join hands with them.   
+  Communication: Can talk fluently with other people.  
