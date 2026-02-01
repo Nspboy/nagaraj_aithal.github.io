@@ -21,15 +21,11 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
-  // Contact form (demo)
+  // Contact form: Formspree handles submission automatically
   const form = document.getElementById("contactForm");
   if (form) {
     form.addEventListener("submit", (e) => {
-      e.preventDefault();
-      alert(
-        "Message sent (demo). Replace with real backend or Netlify/Forms integration.",
-      );
-      form.reset();
+      // Let Formspree handle it. After successful submit, Formspree will redirect or show a success message.
     });
   }
 
